@@ -1,0 +1,21 @@
+   .header {
+            text-align: center;
+        }
+
+        .imageCenter {
+            display: block;
+            margin: 0 auto;
+        }
+
+        .imagebox {
+            border: groove;
+            padding: 45px;
+        }
+
+         .inputbox{
+             width:40px;
+             margin:20px;
+        }
+        .rowStyle { 
+            margin-top: 25px;
+        }
